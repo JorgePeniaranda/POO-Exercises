@@ -21,6 +21,8 @@ namespace Ejercicio1
                 Console.WriteLine("No se realizó");
                 Console.WriteLine("Saldo Actual: $" + Persona.Cantidad);
             }
+
+            Console.ReadKey();
         }
     }
 }

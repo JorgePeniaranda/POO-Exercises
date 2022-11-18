@@ -66,6 +66,8 @@ namespace Ejercicio2
                 else if (personaCalcular.Peso == 0 || personaCalcular.Altura == 0) Console.WriteLine($"{personaCalcular.Nombre} le faltan datos");
                 else Console.WriteLine($"{personaCalcular.Nombre} esta por encima de su peso ideal");
             }
+
+            Console.ReadKey();
         }
     }
 }

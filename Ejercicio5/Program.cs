@@ -80,6 +80,8 @@ namespace Ejercicio5
             Console.WriteLine("Videojuegos:");
             Console.WriteLine("    Videojuegos entregados: " + videoJuegosEntregados);
             Console.WriteLine("    Videojuegos con mas horas: " + videoJuegoMasHorasEstimadas);
+
+            Console.ReadKey();
         }
     }
 }

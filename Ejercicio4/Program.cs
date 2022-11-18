@@ -47,6 +47,8 @@ namespace Ejercicio4
             Console.WriteLine($"El precio de los Electrodomesticos es de ${precioElectrodomesticos}");
             Console.WriteLine($"El precio de los Televisores es de ${precioTelevision}");
             Console.WriteLine($"El precio de las Lavadoras es de ${precioLavadora}");
+
+            Console.ReadKey();
         }
     }
 }

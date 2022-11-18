@@ -22,6 +22,9 @@ namespace Ejercicio6
             if (libro1.NumeroPaginas > libro2.NumeroPaginas) Console.WriteLine($"{libro1.Titulo} Tiene mas paginas");
             else if (libro1.NumeroPaginas < libro2.NumeroPaginas) Console.WriteLine($"{libro2.Titulo} Tiene mas paginas");
             else Console.WriteLine("Ambos tienen las mismas paginas");
+
+            Console.ReadKey();
+
         }
     }
 }

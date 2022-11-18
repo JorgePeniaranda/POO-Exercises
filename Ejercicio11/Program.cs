@@ -4,16 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio7
+namespace Ejercicio11
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Raices raices = new Raices(2, 5, 2);
-
-            raices.calcular();
-
             Console.ReadKey();
         }
     }

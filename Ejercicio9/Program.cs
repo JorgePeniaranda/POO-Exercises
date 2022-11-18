@@ -50,6 +50,8 @@ namespace Ejercicio9
                 Console.WriteLine("");
                 Console.WriteLine("");
             }
+
+            Console.ReadKey();
         }
     }
 }

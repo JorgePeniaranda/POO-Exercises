@@ -31,6 +31,8 @@ namespace Ejercicio3
                 arrayBools[i] = arrayPasswords[i].esFuerte(arrayPasswords[i].Contrasenia);
                 Console.WriteLine(arrayPasswords[i].Contrasenia + ": " + ((arrayBools[i]) ? "Es fuerte" : "NO es fuerte"));
             }
+
+            Console.ReadKey();
         }
     }
 }
