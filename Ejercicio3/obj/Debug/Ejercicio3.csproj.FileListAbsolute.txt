@@ -1,0 +1,8 @@
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\Proyectos\Trabajos POO\JorgePeniaranda\Ejercicio3\obj\Debug\Ejercicio3.pdb
