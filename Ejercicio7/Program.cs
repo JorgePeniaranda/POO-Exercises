@@ -13,6 +13,8 @@ namespace Ejercicio7
             Raices raices = new Raices(2, 5, 2);
 
             raices.calcular();
+
+            Console.ReadKey();
         }
     }
 }

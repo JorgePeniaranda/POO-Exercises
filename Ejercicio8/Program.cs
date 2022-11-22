@@ -57,6 +57,8 @@ namespace Ejercicio8
                 Console.WriteLine();
                 Console.WriteLine("Aprobaron " + aula.aprobados(6).Count + " y reprobaron " + aula.desaprobados(6).Count);
             }
+
+            Console.ReadKey();
         }
     }
 }

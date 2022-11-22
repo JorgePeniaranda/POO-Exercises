@@ -10,6 +10,7 @@ namespace Ejercicio3
     {
         int longitud = 8;
         string contrasenia = string.Empty;
+        static Random rdn = new Random();
 
         public int Longitud { set { longitud = value; } get { return longitud; } }
         public string Contrasenia { get { return contrasenia; } }
@@ -40,7 +41,6 @@ namespace Ejercicio3
         }
         public string generarPassword(int longitud)
         {
-            Random rdn = new Random();
             string caracteres = "abcdefABCDEF1234567."; // Se puede aumentar a los caracteres que desee que contenga la contraseña (lo reduje porque no cumplia casi nunca la condicion con la lista de caracteres completa)
             string contraseniaAleatoria = string.Empty;
             for (int i = 0; i < longitud; i++)
