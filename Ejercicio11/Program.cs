@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Ejercicio11
 {
@@ -6,18 +7,20 @@ namespace Ejercicio11
     {
         static void Main(string[] args)
         {
-            Jugador yo0 = new Jugador("yo0", 200);
-            Jugador yo1 = new Jugador("yo1", 200);
-            Jugador yo2 = new Jugador("yo2", 200);
-            Jugador yo3 = new Jugador("yo3", 200);
+            int dineroInicial = 200;
 
-            System.Collections.Generic.List<Jugador> jugadores = new System.Collections.Generic.List<Jugador> { yo0, yo1, yo2, yo3 };
+            Jugador yo0 = new Jugador("yo0", dineroInicial);
+            Jugador yo1 = new Jugador("yo1", dineroInicial);
+            Jugador yo2 = new Jugador("yo2", dineroInicial);
+            Jugador yo3 = new Jugador("yo3", dineroInicial);
 
-            yo0.apostar("O", "ARG");
-            yo0.apostar("C", "BRA");
-            yo0.apostar("F", "GER");
-            yo0.apostar("SF", "URU");
+            List<Jugador> jugadores = new List<Jugador> { yo0, yo1, yo2, yo3 };
+
             yo1.apostar("O", "SEN");
+            yo0.apostar("O", "GER");
+            yo0.apostar("C", "URU");
+            yo0.apostar("SF", "BRA");
+            yo0.apostar("F", "ARG");
             Apuestas apuestas = new Apuestas(jugadores);
             apuestas.correrApuesta();
 

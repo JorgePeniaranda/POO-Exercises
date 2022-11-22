@@ -50,6 +50,7 @@ namespace Ejercicio11
                 if (persona.CantidadAciertos > 1 && !yaGanaron)
                 {
                     persona.agregarDinero(premio);
+                    Console.WriteLine(persona.Nombre + " ya gano la apuesta!");
                     yaGanaron = true;
                 }
             }
