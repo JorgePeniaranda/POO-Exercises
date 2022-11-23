@@ -44,6 +44,8 @@ namespace Ejercicio14
 
             almacen.eliminarProducto(99);
             almacen.mostrarInformacion();
+
+            Console.ReadKey();
         }
     }
 }
