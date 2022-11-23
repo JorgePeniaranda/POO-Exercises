@@ -19,7 +19,7 @@ Trabajos realizados para la materia "_Programación Orientada a Objetos_"
 - [x] Ejercicio 12B
 - [x] Ejercicio 13
 - [x] Ejercicio 14
-- [ ] Ejercicio 15
+- [x] Ejercicio 15
 - [ ] Ejercicio 16
 - [ ] Ejercicio 17
 
