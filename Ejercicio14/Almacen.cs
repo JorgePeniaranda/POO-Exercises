@@ -9,9 +9,12 @@ namespace Ejercicio14
     internal class Almacen
     {
         List<List<Bebidas>> estanteria = new List<List<Bebidas>>();
-        public Almacen()
+        public Almacen(int cantidadColumnas)
         {
-
+            for (int i = 0; i < cantidadColumnas; i++)
+            {
+                estanteria.Add(new List<Bebidas>());
+            }
         }
         public Almacen(List<List<Bebidas>> estanteria)
         {
