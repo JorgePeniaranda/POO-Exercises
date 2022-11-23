@@ -11,7 +11,6 @@ namespace Ejercicio11
         static Random rdn = new Random();
         string[] equipos = new string[2];
         string ganador = "";
-        string perdedor = "";
         int local = 0;
         int visitante = 0;
 
