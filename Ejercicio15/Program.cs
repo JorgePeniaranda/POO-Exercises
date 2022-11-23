@@ -60,6 +60,7 @@ namespace Ejercicio15
                             agendaTelefonica.listarContactos();
                             break;
                         case 4:
+                            Console.Write("Ingrese nombre del contacto:");
                             agendaTelefonica.buscaContacto(Console.ReadLine());
                             break;
                         case 5:
