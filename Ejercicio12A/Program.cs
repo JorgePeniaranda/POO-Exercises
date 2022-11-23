@@ -34,6 +34,8 @@ namespace Ejercicio12A
             Juego juego = new Juego(listaJugadores, revolver);
 
             juego.ronda();
+
+            Console.ReadKey();
         }
     }
 }
