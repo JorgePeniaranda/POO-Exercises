@@ -22,8 +22,6 @@ namespace Ejercicio17
         {
             foreach (var preguntaFor in preguntas)
             {
-                Console.WriteLine("preguntaFor.PreguntaTest == pregunta: " + preguntaFor.PreguntaTest == pregunta);
-                Console.WriteLine("preguntaFor.RespuestaCorrecta == preguntaFor.Opciones[respuesta]: " + preguntaFor.RespuestaCorrecta == preguntaFor.Opciones[respuesta]);
                 if (preguntaFor.PreguntaTest == pregunta && preguntaFor.RespuestaCorrecta == preguntaFor.Opciones[respuesta])
                 {
                     puntos += 100;

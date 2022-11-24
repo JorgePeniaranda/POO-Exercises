@@ -21,6 +21,7 @@ namespace Ejercicio17
 
             Console.ReadKey();
 
+            Pregunta pregunta = null;
             while (true)
             {
                 try
@@ -31,7 +32,6 @@ namespace Ejercicio17
                     Console.Write(">");
 
                     string opcion = Console.ReadLine();
-                    Pregunta pregunta = test.Preguntas[rdn.Next(test.Preguntas.Count)];
 
                     switch (opcion)
                     {
