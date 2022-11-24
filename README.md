@@ -20,7 +20,7 @@ Trabajos realizados para la materia "_Programación Orientada a Objetos_"
 - [x] Ejercicio 13
 - [x] Ejercicio 14
 - [x] Ejercicio 15
-- [ ] Ejercicio 16
-- [ ] Ejercicio 17
+- [x] Ejercicio 16
+- [x] Ejercicio 17
 
 ##### Jorge Peñaranda 5°10°
