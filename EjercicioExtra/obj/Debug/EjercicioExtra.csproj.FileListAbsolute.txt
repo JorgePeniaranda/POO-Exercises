@@ -1,0 +1,8 @@
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\bin\Debug\EjercicioExtra.exe.config
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\bin\Debug\EjercicioExtra.exe
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\bin\Debug\EjercicioExtra.pdb
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.exe
+C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.pdb
