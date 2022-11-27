@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="equipoGrupos.cs" />
-    <Compile Include="jugarGrupos.cs" />
+    <Compile Include="equipoEstadistica.cs" />
+    <Compile Include="crearGrupo.cs" />
     <Compile Include="Mundial.cs" />
-    <Compile Include="Partido.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

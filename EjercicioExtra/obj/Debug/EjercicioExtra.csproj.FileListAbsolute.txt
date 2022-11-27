@@ -6,3 +6,11 @@ C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExt
 C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.exe
 C:\Users\Alumno\Desktop\Ejercicios-Programacion-Orientada-a-Objetos\EjercicioExtra\obj\Debug\EjercicioExtra.pdb
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\bin\Debug\EjercicioExtra.exe.config
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\bin\Debug\EjercicioExtra.exe
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\bin\Debug\EjercicioExtra.pdb
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.AssemblyReference.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\obj\Debug\EjercicioExtra.csproj.CoreCompileInputs.cache
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\obj\Debug\EjercicioExtra.exe
+D:\Proyectos\Trabajos POO\JorgePeniaranda\EjercicioExtra\obj\Debug\EjercicioExtra.pdb
