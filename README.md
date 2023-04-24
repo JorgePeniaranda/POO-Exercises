@@ -1,5 +1,4 @@
 # Ejercicios Practicos de Programación Orientada a Objetos
-Trabajos realizados para la materia "_Programación Orientada a Objetos_" 
 
 [Lista Completa de Ejercicios](https://www.discoduroderoer.es/ejercicios-propuestos-y-resueltos-programacion-orientado-a-objetos-java/)
 
@@ -22,5 +21,3 @@ Trabajos realizados para la materia "_Programación Orientada a Objetos_"
 - [x] Ejercicio 15
 - [x] Ejercicio 16
 - [x] Ejercicio 17
-
-##### Jorge Peñaranda 5°10°
